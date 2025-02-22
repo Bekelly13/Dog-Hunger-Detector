@@ -1,0 +1,2 @@
+0 Not Hungry
+1 Hungry
